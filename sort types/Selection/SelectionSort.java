@@ -1,3 +1,5 @@
+package Selection;
+
 public class SelectionSort {
     public static void selectionSort(int[] sortArr) {
         // Массивтің әрбір элементін кезегімен аралап шығамыз

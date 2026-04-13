@@ -1,3 +1,5 @@
+package Quick;
+
 public class QuickSort {
     public static void quickSort(int[] sortArr, int low, int high) {
         // 1. Негізгі шарт: егер массив бос болса немесе бөлетін ештеңе қалмаса (индекстер түйіссе), тоқтату

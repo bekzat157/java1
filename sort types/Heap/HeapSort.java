@@ -1,3 +1,5 @@
+package Heap;
+
 public class HeapSort {
     // A[i] элементінің сол жақ ұрпағының индексін қайтару
     private static int LEFT(int i) {

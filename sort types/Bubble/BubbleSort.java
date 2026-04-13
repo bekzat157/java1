@@ -1,3 +1,5 @@
+package Bubble;
+
 public class BubbleSort {
     public static void bubbleSort(int[] sortArr) {
         // Сыртқы цикл: массивтің соңына дейін барады.
